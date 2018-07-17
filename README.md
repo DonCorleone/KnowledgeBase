@@ -1,5 +1,9 @@
 # KnowledgeBase
 
+## C#
+
+[Anonymous Types](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/anonymous-types)
+
 ## .Net Core 2.1
 
 ### Validation
