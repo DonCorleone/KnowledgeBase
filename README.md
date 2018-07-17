@@ -10,4 +10,4 @@
 
 #### AJAX support for .NET Razor form validation
 
-(Microsoft Ajax Content Delivery Network CDNs)[https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview]
+[Microsoft Ajax Content Delivery Network CDNs](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview)
